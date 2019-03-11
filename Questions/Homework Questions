@@ -6,10 +6,6 @@
     - Labels over the images.
         a. Are they on the image themselves or labeled there with CSS?
 #. Header
-    - Is it a header with a nav bar inside of it?
     - Still having trouble with positioning.
         a. Different containers? Having issues with when to use div class vs div id, etc.
-    - Is my name a button or just styled that way? Part of the navbar?
-#. Footer
-    - Need to edit the height of it.
 #. What is validating my html?
